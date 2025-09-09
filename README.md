@@ -1,5 +1,5 @@
 # Project-Registration-Form
- This is a detailed documentation about the registation form 
+ This is a detailed documentation about the registation form and how to use it.
 # File Structure Explanation
 The repository contains the following files:
 project-folder/
